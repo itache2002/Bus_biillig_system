@@ -1,0 +1,28 @@
+.card {
+    display:inline-block    ;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 23%;
+    padding-left:13px;
+    color: black;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,1);
+  }
+
+  .container {
+    padding: 2px 16px;
+  } 
+h1{
+    margin-bottom: 150px;
+}
+.main-container{
+   background-image:url("https://cdn4.vectorstock.com/i/1000x1000/45/63/school-bus-with-kids-vector-26264563.jpg");
+
+}
+.form{
+  background-image:url("https://cdn4.vectorstock.com/i/1000x1000/45/63/school-bus-with-kids-vector-26264563.jpg");
+
+
+}
